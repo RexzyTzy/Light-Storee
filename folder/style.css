@@ -1,0 +1,409 @@
+body {
+  background-image: url('image/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.h3 {
+  font-weight: bold;
+  color: #f766ff;
+  text-shadow: 
+    0 0 10px #f766ff,
+    0 0 20px #f766ff,
+    0 0 30px #f766ff;
+  position: relative;
+  top: 130px;
+  left: 180px;
+}
+
+.h3v2 {
+  font-weight: bold;
+  color: #3ee0ff;
+  text-shadow: 
+    0 0 10px #3ee0ff,
+    0 0 20px #3ee0ff,
+    0 0 30px #3ee0ff;
+  position: relative;
+  top: 630px;
+  left: 180px;
+}
+
+.table-1 {
+  background-color: #fb16ff;
+  color: #fb16ff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  position: relative;
+  bottom: 75px;
+}
+
+.menu-sosmed {
+  background-color: #f766ff;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  border-color: #f766ff;
+}
+
+.menu-testimoni {
+  background-color: #f766ff;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  border-color: #f766ff;
+  position: relative;
+  left: 10px;
+}
+
+.menu-link {
+  background-color: #f766ff;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  border-color: #f766ff;
+  position: relative;
+  left: 20px;
+}
+
+.menu-admin {
+  background-color: #f766ff;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  border-color: #f766ff;
+  position: relative;
+  left: 30px;
+}
+
+.cheat-dash {
+  background-color: #fb16ff;
+  color: #fb16ff;
+  font-weight: bold;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  top: 15px;
+}
+
+li {
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #fff;
+  position: relative;
+  left: 5px;
+}
+
+h1 {
+  color: #fff;
+  position: relative;
+  left: 40px;
+}
+
+.btn-dash {
+  background-color: #fff;
+  border-color: #fff;
+  font-weight: bold;
+  color: #111;
+  text-shadow: 
+    0 0 10px #111;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.cheat-cd {
+  background-color: #fb16ff;
+  color: #fb16ff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 205px;
+}
+
+.li-cd {
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #fff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-cd {
+  background-color: #fff;
+  border-color: #fff;
+  font-weight: bold;
+  color: #111;
+  text-shadow: 
+    0 0 10px #111;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.cheat-shop {
+  background-color: #fb16ff;
+  color: #fb16ff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  bottom: 200px;
+}
+
+.li-shop {
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #fff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-shop {
+  background-color: #fff;
+  border-color: #fff;
+  font-weight: bold;
+  color: #111;
+  text-shadow: 
+    0 0 10px #111;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.cheat-energi {
+  background-color: #fb16ff;
+  color: #fb16ff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 420px;
+}
+
+.li-energi {
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff,
+    0 0 20px #fff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-energi {
+  background-color: #fff;
+  border-color: #fff;
+  font-weight: bold;
+  color: #111;
+  text-shadow: 
+    0 0 10px #111;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.joki-level {
+  background-color: #fff;
+  color: #fff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  bottom: 300px;
+}
+
+.level {
+  color: #3ee0ff;
+}
+
+.li-level {
+  font-weight: bold;
+  color: #3ee0ff;
+  text-shadow: 
+    0 0 10px #3ee0ff,
+    0 0 20px #3ee0ff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-level {
+  background-color: #3ee0ff;
+  border-color: #3ee0ff;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.joki-coin {
+  background-color: #fff;
+  color: #fff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 520px;
+}
+
+.coin {
+  color: #3ee0ff;
+  position: relative;
+  left: 55px;
+}
+
+.li-coin {
+  font-weight: bold;
+  color: #3ee0ff;
+  text-shadow: 
+    0 0 10px #3ee0ff,
+    0 0 20px #3ee0ff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-coin {
+  background-color: #3ee0ff;
+  border-color: #3ee0ff;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.joki-raid {
+  background-color: #fff;
+  color: #fff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  bottom: 500px;
+}
+
+.raid {
+  color: #3ee0ff;
+  position: relative;
+  left: 55px;
+}
+
+.li-raid {
+  font-weight: bold;
+  color: #3ee0ff;
+  text-shadow: 
+    0 0 10px #3ee0ff,
+    0 0 20px #3ee0ff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-raid {
+  background-color: #3ee0ff;
+  border-color: #3ee0ff;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.joki-bounty {
+  background-color: #fff;
+  color: #fff;
+  width: 40%;
+  height: 20%;
+  border-radius: 20px;
+  position: relative;
+  left: 300px;
+  bottom: 720px;
+}
+
+.bounty {
+  color: #3ee0ff;
+}
+
+.li-bounty {
+  font-weight: bold;
+  color: #3ee0ff;
+  text-shadow: 
+    0 0 10px #3ee0ff,
+    0 0 20px #3ee0ff;
+  position: relative;
+  left: 5px;
+}
+
+.btn-bounty {
+  background-color: #3ee0ff;
+  border-color: #3ee0ff;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 
+    0 0 10px #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  position: relative;
+  left: 10px;
+  top: 25px;
+}
+
+.notepad {
+  background-color: #fff93e;
+  color: #fff93e;
+  position: relative;
+  bottom: 700px;
+  height: 30%;
+}
+
+h5, span {
+  font-weight: bold;
+  color: #111;
+  text-shadow: 
+    0 0 10px #111;
+}
